@@ -1,7 +1,9 @@
-Sudoku Solver using Backtracking Algorithm
+#Sudoku Solver using Backtracking Algorithm
 
-Team Member: 
-Deenadayalan Dasarathan/Ruchi Bhavsar/Kaiyuan Wei
+Team Members: 
+Ruchi Bhavsar <br />
+Deenadayalan Dasarathan <br />
+Kaiyuan Wei
 
 This program is to solve the Sudoku puzzle game save in file "soduku.txt".
 By running the main.py, it will call other models to display and solve the game.
